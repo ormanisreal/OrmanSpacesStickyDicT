@@ -21,6 +21,6 @@ service. When automating exteremely repetetive tasks, you could spend 2 mins wri
       
 But if  you need something quick and scrappy 
 
-    2 mins / 20,30,60 or even 100 hits makes StickyDickT a significant timesaver.
+    2 mins / 20,30,60 or even 100 hits makes StickyDickT a significant timesaver and the tiny overhead irrelevant
     
     
