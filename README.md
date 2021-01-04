@@ -11,6 +11,16 @@ writing things on the fly.
 
 If your building something that will be using your dictionary a lot (more like a database), 
 
-then StickyDicT probally isn't for you, theres not much reason to use StickyDicT, 
+then StickyDicT probally isn't for you, theres not much reason to use StickyDicT as a backend
 
-insead you should build your app using the OrmanSpacesPythonClient directly. 
+service. When automating exteremely repetetive tasks, you could spend 2 mins writing some logic 
+
+ using the OrmanSpacesPythonClient directly. 
+ 
+      2 mins / 2,000,000 runs <-- makes the time saved seem meaningless, considering the extra overhead
+      
+But if  you need something quick and scrappy 
+
+    2 mins / 20,30,60 or even 100 hits makes StickyDickT a significant timesaver.
+    
+    
